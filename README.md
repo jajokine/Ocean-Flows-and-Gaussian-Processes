@@ -1,4 +1,4 @@
-# Environmental-Data-and-Gaussian-Processes
+# Ocean-Flows-and-Gaussian-Processes
 MITx - MicroMasters Program on Statistics and Data Science - Data Analysis: Statistical Modeling and Computation in Applications - Fifth Project
 
 The aim of the project was to model flow-based environmental data, namely ocean flows measured in the Philippine Archipelago, and generate dynamic simulations based on these flows modeled with Gaussian Processes.
