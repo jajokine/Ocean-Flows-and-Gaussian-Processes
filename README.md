@@ -11,9 +11,9 @@ The dataset, which due to big size cannot be downloaded unfortunately here, cons
 
 ## Dataset
 
-    - *u.csv: Contains the ocean flow horizontal components of vectors for time T from 1 to 100 containing the measure of the direction and the magnitude of the flow.
+    - *u.csv: Contains the ocean flow with the velocity of horizontal component vectors for time T from 1 to 100 containing the measure of the direction and the magnitude of the flow.
     
-    - *v.csv: Contains the ocean flow vertical components of vectors for time T from 1 to 100 containing the measure of the direction and the magnitude of the flow.
+    - *v.csv: Contains the ocean flow with the velocity of vertical component vectors for time T from 1 to 100 containing the measure of the direction and the magnitude of the flow.
 
 ## Access and Requirements
 
