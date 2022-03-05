@@ -17,7 +17,7 @@ The dataset consists of water flow data around the Philippines with a number of 
 
 ## Access and Requirements
 
-The file project5ipynb is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
+The file project5.ipynb is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
 
 The dependencies and requirements can be seen from requirements.txt that can be installed in shell with the command:
 
