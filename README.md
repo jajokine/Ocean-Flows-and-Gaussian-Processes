@@ -13,7 +13,7 @@ The dataset, which due to big size cannot be downloaded unfortunately here, cons
 
 ## Access and Requirements
 
-The file project5.ipynb is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
+The file [project5.ipynb](https://github.com/jajokine/Ocean-Flows-and-Gaussian-Processes/blob/main/project5.ipynb) is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
 
 The dependencies and requirements can be seen from requirements.txt that can be installed in shell with the command:
 
